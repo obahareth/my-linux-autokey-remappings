@@ -1,1 +1,1 @@
-keyboard.send_keys("<alt>+f4")
+keyboard.send_keys("<alt>+<f4>")

@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "alt_q_to_alt_f4", 
+    "description": "alt_l_to_ctrl_l", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,7 +12,7 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "q", 
+        "hotKey": "l", 
         "modifiers": [
             "<alt>"
         ]
