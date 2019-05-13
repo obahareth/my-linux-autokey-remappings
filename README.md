@@ -10,3 +10,4 @@ This also adds the awesome keyboard shortcuts for navigating around text on macO
 ### Current Annoyances
 
 * Still can't use Autokey to r[emap mouse clicks](https://github.com/autokey/autokey/issues/180) (e.g. `alt + click` to get similar behavior to `cmd + click` on macOS).
+* Can't figure out how to map `alt+left` and `alt+right` to also behave as back/forward in file manager and web browser.
